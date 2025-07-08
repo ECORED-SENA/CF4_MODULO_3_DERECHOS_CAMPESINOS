@@ -307,8 +307,7 @@ export default {
         {
           nombre: 'Pendiente definir Autor en Word',
           cargo: 'Experto temático',
-          centro:
-            'Pendiente',
+          centro: 'Pendiente',
         },
         {
           nombre: 'Paola Alexandra Moya',
