@@ -13,7 +13,7 @@
           img(src="@/assets/curso/tema3/1.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
         .bg-color-3.p-4.mb-3(data-aos="fade-left")
-          p.mb-0(data-aos="fade-left") Cuando un campesino vende su producción —ya sea papa, queso, hortalizas, huevos, o transformados como dulces o cuajadas— lo ideal no es que todo dependa de un apretón de manos o una promesa verbal. Lo ideal es dejar por escrito lo que se acuerda, con claridad sobre qué, cómo, cuándo y a qué precio se va a entregar el producto.
+          p.mb-0(data-aos="fade-left") Cuando un campesino vende su producción ya sea papa, queso, hortalizas, huevos o transformados como dulces o cuajadas, lo ideal no es que todo dependa de un apretón de manos o una promesa verbal. Lo ideal es dejar por escrito lo que se acuerda, con claridad sobre qué, cómo, cuándo y a qué precio se va a entregar el producto.
     
         .row.align-items-start
           .col-lg-auto
@@ -91,8 +91,11 @@
         .row.p-4.align-items-center
           .col-lg-6.mb-4.mb-md-0
             h4 Informales
-            p Basados en la palabra o una anotación simple- Usados entre vecinos o compradores frecuentes- No tienen garantía legal.
-            p <b>Ejemplo</b>: “Doña Carmen me entrega 10 libras de queso todos los miércoles. Yo le pago en efectivo a la entrega. Precio fijo: $7.000/lb.” Puede anotarse en una libreta o confirmarse con un audio en WhatsApp
+            .ps-1
+              span - Basados en la palabra o una anotación simple.<br> 
+              span - Usados entre vecinos o compradores frecuentes. <br>
+              span - No tienen garantía legal.<br><br>
+            p <b>Ejemplo</b>: “Doña Carmen me entrega 10 libras de queso todos los miércoles. Yo le pago en efectivo a la entrega. Precio fijo: $7.000/lb.” Puede anotarse en una libreta o confirmarse con un audio en WhatsApp.
           .col-lg-6
             figure
               img(src='@/assets/curso/tema3/7.png', alt='Texto que describa la imagen')
@@ -100,8 +103,18 @@
         .row.p-4.align-items-center
           .col-lg-6.mb-4.mb-md-0
             h4 Semi-formales
-            p Anotados y firmados por ambas partes- No requieren abogado- Ofrecen mayor claridad y seguridad que los acuerdos verbales
-            p <b>Ejemplo</b>: Acuerdo de compra-venta campesina entre Don Álvaro Pérez y Luz Elena Soto:• Producto: huevo criollo• Cantidad: 10 cubetas semanales• Precio: $12.000 por cubeta• Entrega: cada viernes• Pago: contado al recibirFirmado el 12 de abril de 2025.
+            .ps-1
+              span - Anotados y firmados por ambas partes.<br>
+              span - No requieren abogado.<br>
+              span - Ofrecen mayor claridad y seguridad que los acuerdos verbales.<br><br>
+            p <b>Ejemplo</b>: acuerdo de compra-venta campesina entre Don Álvaro Pérez y Luz Elena Soto:<br>
+            .ps-1
+              span • Producto: huevo criollo.<br>
+              span • Cantidad: 10 cubetas semanales.<br>
+              span • Precio: $12.000 por cubeta.<br>
+              span • Entrega: cada viernes.<br>
+              span • Pago: contado al recibir.<br><br>
+            p.mb-0 Firmado el 12 de abril de 2025.
           .col-lg-6
             figure
               img(src='@/assets/curso/tema3/8.png', alt='Texto que describa la imagen')
@@ -109,8 +122,11 @@
         .row.p-4.align-items-center
           .col-lg-6.mb-4.mb-md-0
             h4 Formales (legales)
-            p Requieren documentos oficiales y registro- Usados en ventas a entidades o programas estatales- Incluyen cláusulas, penalidades y condiciones claras
-            p <b>Ejemplo</b>: Una asociación campesina firma contrato con el PAE para entregar 300 kg semanales de plátano y yuca durante tres meses. El contrato incluye precios, fechas, calidad y condiciones de pago.
+            .ps-1
+              span - Requieren documentos oficiales y registro.<br>
+              span - Usados en ventas a entidades o programas estatales.<br>
+              span - Incluyen cláusulas, penalidades y condiciones claras.<br><br>
+            p <b>Ejemplo</b>: una asociación campesina firma contrato con el PAE para entregar 300 kg semanales de plátano y yuca durante tres meses. El contrato incluye precios, fechas, calidad y condiciones de pago.
           .col-lg-6
             figure
               img(src='@/assets/curso/tema3/9.png', alt='Texto que describa la imagen')
@@ -249,7 +265,7 @@
           
     div.bg-color-6.mb-5.tarjeta
       .px-4.px-md-5.py-4
-        p.mb-0 El acuerdo comercial es una herramienta que fortalece la palabra del campesino. No se necesita ser abogado, solo tener claridad en lo acordado y dejarlo por escrito.Cuando el campesinado firma acuerdos bien hechos, deja de improvisar y toma el control de su producción, su tiempo y su dignidad.
+        p.mb-0 El acuerdo comercial es una herramienta que fortalece la palabra del campesino. No se necesita ser abogado, solo tener claridad en lo acordado y dejarlo por escrito. Cuando el campesinado firma acuerdos bien hechos, deja de improvisar y toma el control de su producción, su tiempo y su dignidad.
 
     
 

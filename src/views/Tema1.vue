@@ -157,19 +157,19 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Producto
+                  p.mb-0 Producto.
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Cantidad
+                  p.mb-0 Cantidad.
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Precio
+                  p.mb-0 Precio.
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Fecha y lugar de entrega
+                  p.mb-0 Fecha y lugar de entrega.
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Forma de pago
+                  p.mb-0 Forma de pago.
               p <b>Consejo</b>: Un mensaje de voz por WhatsApp también puede servir como prueba.
           .row.align-items-center.p-4.p-md-5.justify-content-center
             .col-lg-5.order-2
@@ -207,19 +207,19 @@
           ul.lista-ul--color.ms-3
             li.d-flex.bg-color-7.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
-              p.mb-0 Aceptar precios sin discutir
+              p.mb-0 Aceptar precios sin discutir.
             li.d-flex.bg-color-7.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
-              p.mb-0 Dejar que el otro fije todas las condiciones
+              p.mb-0 Dejar que el otro fije todas las condiciones.
             li.d-flex.bg-color-7.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
-              p.mb-0 Entregar el producto sin saber cómo ni cuándo se paga
+              p.mb-0 Entregar el producto sin saber cómo ni cuándo se paga.
             li.d-flex.bg-color-7.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
-              p.mb-0 Ceder ante amenazas como: “si no me vende a ese precio, le compro a otro”
+              p.mb-0 Ceder ante amenazas como: “si no me vende a ese precio, le compro a otro”.
             li.d-flex.bg-color-7.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
-              p.mb-0 Firmar papeles que no entiendes
+              p.mb-0 Firmar papeles que no entiendes.
           p.mb-0 Ante la duda, es mejor no vender. Más vale perder una venta que perder toda la producción o quedar endeudado.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -254,7 +254,7 @@
               figure
                 img(src='@/assets/curso/tema1/20.svg', alt='Texto que describa la imagen')
           h3.text-center Acuerdos orales válidos
-          p.text-small La palabra dada como compromiso firme
+          p.text-small La palabra dada como compromiso firme.
       .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-down")
         //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -265,7 +265,7 @@
               figure
                 img(src='@/assets/curso/tema1/21.svg', alt='Texto que describa la imagen')
           h3.text-center Relaciones de confianza y reciprocidad
-          p.text-small Intercambios sostenidos sin necesidad de contratos formales
+          p.text-small Intercambios sostenidos sin necesidad de contratos formales.
       .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
         //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -276,7 +276,7 @@
               figure
                 img(src='@/assets/curso/tema1/22.svg', alt='Texto que describa la imagen')
           h3.text-center Prácticas económicas propias
-          p.text-small Trueque, ferias locales, precios acordados colectivamente
+          p.text-small Trueque, ferias locales, precios acordados colectivamente.
       .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-down")
         //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -287,14 +287,14 @@
               figure
                 img(src='@/assets/curso/tema1/23.svg', alt='Texto que describa la imagen')
           h3.text-center Organización comunitaria tradicional
-          p.text-small Mingas, familias ampliadas, asociaciones, comités veredales
+          p.text-small Mingas, familias ampliadas, asociaciones, comités veredales.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
         h3.titulo-con-imagen__texto ¿Por qué es importante hacerlo?
     
-    p.mb-5 A continuación, se presentan tres razones fundamentales para integrar la condición campesina y sus repertorios
+    p.mb-5 A continuación, se presentan tres razones fundamentales para integrar la condición campesina y sus repertorios.
 
     .row.mb-5
       .col-lg-3.mb-3.mb-lg-0
@@ -331,7 +331,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
         h3.titulo-con-imagen__texto ¿Cómo se traduce esto en el contenido del componente formativo?
     
-    p Adaptar el contenido a la lógica campesina no es simplificarlo, sino enriquecerlo desde la cultura rural. A continuación, se explica como hacerlo: 
+    p Adaptar el contenido a la lógica campesina no es simplificarlo, sino enriquecerlo desde la cultura rural. A continuación, se explica cómo hacerlo: 
 
     .bg-full-width-2.bg-color-12
       .p-4.p-md-5
@@ -342,19 +342,19 @@
             .col-lg-3.mb-3.mb-lg-0(data-aos="fade-up")
               div.bg-color-11.tarjeta.p-4.h-100.align-content-center
                 h5 Negociación
-                p.mb-0 Diálogo cara a cara, respeto mutuo, palabra como compromiso
+                p.mb-0 Diálogo cara a cara, respeto mutuo, palabra como compromiso.
             .col-lg-3.mb-3.mb-lg-0(data-aos="fade-down")
               div.bg-color-11.tarjeta.p-4.h-100.align-content-center
                 h5 Acuerdos comerciales
-                p.mb-0 Reconocimiento de acuerdos orales y escritos como válidos
+                p.mb-0 Reconocimiento de acuerdos orales y escritos como válidos.
             .col-lg-3.mb-3.mb-lg-0(data-aos="fade-up")
               div.bg-color-11.tarjeta.p-4.h-100.align-content-center
                 h5 Alianzas y redes
-                p.mb-0 Fortalecimiento del trabajo colectivo y la colaboración
+                p.mb-0 Fortalecimiento del trabajo colectivo y la colaboración.
             .col-lg-3.mb-3.mb-lg-0(data-aos="fade-down")
               div.bg-color-11.tarjeta.p-4.h-100.align-content-center
                 h5 Acceso a mercados
-                p.mb-0 Valorización de ferias locales, mercados agroecológicos y compras públicas
+                p.mb-0 Valorización de ferias locales, mercados agroecológicos y compras públicas.
           p.mb-0 Vincular la condición campesina con sus repertorios culturales es enseñar desde la realidad, respetando y fortaleciendo lo que el campesinado ya sabe, sin imponer modelos descontextualizados. Este enfoque permite potenciar sus prácticas, reforzar su identidad rural y avanzar hacia una economía más justa, sostenible y en armonía con su cultura.
 
         separador
@@ -376,12 +376,12 @@
                 .col-lg-4.position-relative.mb-3.mb-lg-0(data-aos="fade-down")
                   div.bg-color-2.tarjeta.p-4.h-100.align-content-center
                     h5 ¿Cuánto costó producirlo?
-                    p.mb-0 Se deben sumar los costos de semillas, abono, mano de obra, transporte, etc
+                    p.mb-0 Se deben sumar los costos de semillas, abono, mano de obra, transporte, etc.
                   img.pst(src='@/assets/curso/tema1/29.svg', style="max-width: 37px")
                 .col-lg-4.position-relative.mb-3.mb-lg-0(data-aos="fade-up")
                   div.bg-color-2.tarjeta.p-4.h-100.align-content-center
                     h5 ¿Cuál es el precio justo?
-                    p.mb-0 Se debe establecer un valor que permita recuperar los costos y obtener una ganancia
+                    p.mb-0 Se debe establecer un valor que permita recuperar los costos y obtener una ganancia.
                   img.pst(src='@/assets/curso/tema1/29.svg', style="max-width: 37px")
               .row.p-2.mb-3
                 .col-lg-4.position-relative.mb-3.mb-lg-0(data-aos="fade-down")

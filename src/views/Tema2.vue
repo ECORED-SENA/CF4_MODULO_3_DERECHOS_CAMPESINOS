@@ -38,7 +38,7 @@
           img(src="@/assets/curso/tema2/2.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
         .bg-color-1.p-4.mb-3(data-aos="fade-left")
-          p.mb-0 “Promover el acceso progresivo a la propiedad de la tierra y a los servicios de apoyo para los trabajadores agrarios, especialmente para la agricultura campesina, familiar y comunitaria.”
+          p.mb-0 “Promover el acceso progresivo a la propiedad de la tierra y a los servicios de apoyo para los trabajadores agrarios, especialmente para la agricultura campesina, familiar y comunitaria”.
         p(data-aos="fade-left") Esto significa que organizarse desde lo local es un derecho, no una concesión. Las prácticas comerciales propias del campesinado tienen fundamento constitucional y deben ser fortalecidas como parte del desarrollo rural. Conocer estas políticas permite al campesinado entrar al mercado con conocimiento y estrategia, entendiendo:
       
         .bg-color-14.tarjeta.p-4(data-aos="fade-left")
@@ -84,27 +84,27 @@
                   .bg-color-white.p-4.h-100.shadow-app
                     img(src='@/assets/curso/tema2/6.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                     h4.text-center.mb-4 Acceso a los espacios de venta
-                    p.text-center Quién puede vender en la plaza o feria
+                    p.text-center Quién puede vender en la plaza o feria.
                   .bg-color-white.p-4.h-100.shadow-app
                     img(src='@/assets/curso/tema2/7.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                     h4.text-center.mb-4 Organización del espacio comercial
-                    p.text-center Distribución y ubicación de los puestos
+                    p.text-center Distribución y ubicación de los puestos.
                   .bg-color-white.p-4.h-100.shadow-app
                     img(src='@/assets/curso/tema2/8.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                     h4.text-center.mb-4 Fijación de precios
-                    p.text-center Establecimiento de precios mínimos acordados
+                    p.text-center Establecimiento de precios mínimos acordados.
                   .bg-color-white.p-4.h-100.shadow-app
                     img(src='@/assets/curso/tema2/9.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                     h4.text-center.mb-4 Prioridades de productos
-                    p.text-center Promoción de productos locales, agroecológicos y tradicionales
+                    p.text-center Promoción de productos locales, agroecológicos y tradicionales.
                   .bg-color-white.p-4.h-100.shadow-app
                     img(src='@/assets/curso/tema2/10.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                     h4.text-center.mb-4 Presencia o control de intermediarios
-                    p.text-center Regulación o exclusión de revendedores en ciertos espacios
+                    p.text-center Regulación o exclusión de revendedores en ciertos espacios.
                   .bg-color-white.p-4.h-100.shadow-app
                     img(src='@/assets/curso/tema2/11.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                     h4.text-center.mb-4 Apoyo institucional
-                    p.text-center Participación de alcaldías, SENA, ICA u otras entidades
+                    p.text-center Participación de alcaldías, SENA, ICA u otras entidades.
         
               .col-lg-3
                 figure
@@ -161,15 +161,15 @@
 
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-3")
           div(titulo="Asociaciones o redes campesinas")
-            p.mb-0 Organizaciones que representan colectivamente intereses productivos y comerciales
+            p.mb-0 Organizaciones que representan colectivamente intereses productivos y comerciales.
           div(titulo="Consejos Municipales de Desarrollo Rural (CMDR)")
-            p.mb-0 Espacios de diálogo donde se puede incidir en decisiones locales relacionadas con el campo
+            p.mb-0 Espacios de diálogo donde se puede incidir en decisiones locales relacionadas con el campo.
           div(titulo="Relación directa con gobiernos locales")
-            p.mb-0 Interacción con alcaldías y gobernaciones para proponer o revisar políticas
+            p.mb-0 Interacción con alcaldías y gobernaciones para proponer o revisar políticas.
           div(titulo="Propuestas colectivas")
-            p.mb-0 Documentos o iniciativas elaboradas por las comunidades para presentar formalmente
+            p.mb-0 Documentos o iniciativas elaboradas por las comunidades para presentar formalmente.
           div(titulo="Eventos institucionales")
-            p.mb-0 Ferias, encuentros o programas del SENA, ICA, gobernaciones, entre otros, que permiten visibilizar necesidades y propuestas
+            p.mb-0 Ferias, encuentros o programas del SENA, ICA, gobernaciones, entre otros, que permiten visibilizar necesidades y propuestas.
        
     .row
       .col-lg-4.mb-3.mb-lg-0.order-lg-2
@@ -198,23 +198,23 @@
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
               h5 Falta de información
-                p.mb-0 Desconocimiento de normas y requisitos básicos para vender
+                p.mb-0 Desconocimiento de normas y requisitos básicos para vender.
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
               h5 Exigencias técnicas complicadas
-                p.mb-0 Trámites como facturación electrónica o registros sanitarios
+                p.mb-0 Trámites como facturación electrónica o registros sanitarios.
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
               h5 Espacios controlados por externos
-                p.mb-0 Presencia dominante de comerciantes ajenos a la comunidad
+                p.mb-0 Presencia dominante de comerciantes ajenos a la comunidad.
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
               h5 Baja representación en decisiones
-                p.mb-0 Escasa participación en espacios de formulación de políticas
+                p.mb-0 Escasa participación en espacios de formulación de políticas.
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
               h5 Desconfianza entre productores
-                p.mb-0 Competencia interna en lugar de cooperación organizada
+                p.mb-0 Competencia interna en lugar de cooperación organizada.
     
     p.mb-5 Por eso, es fundamental promover acciones colectivas desde el territorio que permitan transformar estas condiciones.
 
@@ -228,23 +228,23 @@
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
               h5 Solicitar mercados campesinos apoyados por la alcaldía
-                p.mb-0 Garantizar espacios estables para la venta directa
+                p.mb-0 Garantizar espacios estables para la venta directa.
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
               h5 Promover acuerdos de precios y calidad comunitarios
-                p.mb-0 Evitar competencia desleal y fortalecer la imagen colectiva
+                p.mb-0 Evitar competencia desleal y fortalecer la imagen colectiva.
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
               h5 Crear o fortalecer asociaciones campesinas
-                p.mb-0 Tener representación en decisiones públicas
+                p.mb-0 Tener representación en decisiones públicas.
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
               h5 Realizar veeduría a programas como el PAE
-                p.mb-0 Asegurar transparencia y acceso justo a compras públicas
+                p.mb-0 Asegurar transparencia y acceso justo a compras públicas.
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
               h5 Pedir formación técnica a instituciones locales
-                p.mb-0 Cumplir requisitos legales como el INVIMA o la facturación
+                p.mb-0 Cumplir requisitos legales como el INVIMA o la facturación.
     
 
     .row.mb-5

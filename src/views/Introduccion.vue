@@ -15,7 +15,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/intro/1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 El trabajo campesino no termina en la cosecha. Una vez se siembra, se cuida y se recoge, viene una de las partes más importantes: vender lo producido de forma justa. Y ahí es donde muchas veces el campesino pierde. Porque no hay precios claros, porque se depende de un intermediario, o porque no se conoce cómo negociar.
+            p.mb-0 El trabajo campesino no termina en la cosecha. Una vez que se siembra, se cuida y se recoge, viene una de las partes más importantes: vender lo producido de forma justa. Y ahí es donde muchas veces el campesino pierde. Porque no hay precios claros, porque se depende de un intermediario o porque no se conoce cómo negociar.
 
         .row.mb-5
           .col-lg-4.order-lg-2.mb-3.mb-lg-0
@@ -29,7 +29,7 @@
                 .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/intro/3.png", style="max-width: 90px").mx-auto
                 .col-lg
-                  p.mb-0 Este componente formativo busca que las familias campesinas y sus asociaciones desarrollen habilidades para negociar, reconocer sus derechos comerciales, evitar abusos, y fortalecer su presencia en mercados locales, nacionales e incluso internacionales. No se trata de convertir al campesino en abogado o economista, sino de fortalecer su palabra, su autonomía y su capacidad de decidir cómo y a quién venderle.
+                  p.mb-0 Este componente formativo busca que las familias campesinas y sus asociaciones desarrollen habilidades para negociar, reconocer sus derechos comerciales, evitar abusos y fortalecer su presencia en mercados locales, nacionales e incluso internacionales. No se trata de convertir al campesino en abogado o economista, sino de fortalecer su palabra, su autonomía y su capacidad de decidir cómo y a quién venderle.
 
 
 </template>

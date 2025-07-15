@@ -36,22 +36,22 @@
               ul.lista-ul--color.mb-0
                 li.d-flex.bg-color-15.tarjeta.p-2
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Definir con claridad sus objetivos
+                  p.mb-0 Definir con claridad sus objetivos.
                 li.d-flex.bg-color-15.tarjeta.p-2
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Mejorar la estructura interna y roles
+                  p.mb-0 Mejorar la estructura interna y roles.
                 li.d-flex.bg-color-15.tarjeta.p-2
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Gestionar bien sus recursos
+                  p.mb-0 Gestionar bien sus recursos.
                 li.d-flex.bg-color-15.tarjeta.p-2
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Participar en redes o plataformas más amplias
+                  p.mb-0 Participar en redes o plataformas más amplias.
                 li.d-flex.bg-color-15.tarjeta.p-2
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Acceder a apoyos públicos o privados
+                  p.mb-0 Acceder a apoyos públicos o privados.
                 li.d-flex.bg-color-15.tarjeta.p-2
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Tener voz ante el Estado y otros actores del territorio
+                  p.mb-0 Tener voz ante el Estado y otros actores del territorio.
     
     .row.mb-5
       .col-lg-5.mb-3.mb-lg-0.order-lg-2
@@ -80,16 +80,16 @@
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.color-acento-botones--borde.p-4(titulo="Asociaciones")
             h4 Asociaciones
-            p Grupo formal con junta directiva, NIT y capacidad de firmar convenios
+            p Grupo formal con junta directiva, NIT y capacidad de firmar convenios.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Cooperativas")
             h4 Cooperativas
-            p Comparten ganancias y decisiones; modelo fuerte para la comercialización colectiva
+            p Comparten ganancias y decisiones; modelo fuerte para la comercialización colectiva.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Redes o nodos")
             h4 Redes o nodos
-            p Unión de asociaciones o colectivos; facilitan incidencia a nivel nacional
+            p Unión de asociaciones o colectivos; facilitan incidencia a nivel nacional.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Colectivos informales")
             h4 Colectivos informales
-            p Grupos de hecho; útiles para apoyo mutuo e intercambio comunitario
+            p Grupos de hecho; útiles para apoyo mutuo e intercambio comunitario.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -110,7 +110,7 @@
               p.mb-0 <b>Acceso a compras públicas y contratos grandes</b>. PAE, agricultura por contrato, programas de alimentación institucional.
             li.d-flex.bg-color-9.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
-              p.mb-0 <b>Reducción de costos</b>. Transporte, empaque, insumos, tiempo
+              p.mb-0 <b>Reducción de costos</b>. Transporte, empaque, insumos, tiempo.
             li.d-flex.bg-color-9.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
               p.mb-0 <b>Mejor capacidad de negociación</b>. Exigir precios, condiciones o rechazar lo injusto. 
@@ -126,7 +126,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
         h3.titulo-con-imagen__texto Elementos clave para fortalecer una organización campesina
     
-    p.mb-5 A continuación, se presenta pódcast que aborda los elementos clave para fortalecer una organización campesina, destacando principios de liderazgo, transparencia, inclusión y formación continua como ejes para lograr una gestión participativa y sostenible
+    p.mb-5 A continuación, se presenta pódcast que aborda los elementos clave para fortalecer una organización campesina, destacando principios de liderazgo, transparencia, inclusión y formación continua como ejes para lograr una gestión participativa y sostenible.
 
     .row
       .col-lg-5.order-lg-2.mb-3.mb-lg-0
@@ -143,9 +143,9 @@
                 p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente Pódcast:
         
                 TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
-                  texto="Tipos de políticas comerciales que impactan al productor rural"
+                  texto="Elementos clave para fortalecer una organización campesina"
                   tiempo
-                  :audio="require('../assets/curso/podcast/podcast1.mp3')"
+                  :audio="require('../assets/curso/podcast/podcast2.mp3')"
                 )
     
     .row.mb-5
@@ -208,27 +208,27 @@
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema5/13.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 SENA
-                p.text-center Formación técnica, asesoría comercial, ruedas de negocios
+                p.text-center Formación técnica, asesoría comercial, ruedas de negocios.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema5/14.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Alcaldías / Gobernaciones
-                p.text-center Apoyo a ferias, dotaciones, compras institucionales
+                p.text-center Apoyo a ferias, dotaciones, compras institucionales.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema5/15.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Universidades
-                p.text-center Investigación, innovación, prácticas académicas
+                p.text-center Investigación, innovación, prácticas académicas.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema5/16.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 ONG y fundaciones
-                p.text-center Financiamiento, formación, acompañamiento a proyectos
+                p.text-center Financiamiento, formación, acompañamiento a proyectos.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema5/17.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Empresas responsables
-                p.text-center Compra directa, logística, apoyo financiero
+                p.text-center Compra directa, logística, apoyo financiero.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema5/18.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Redes campesinas
-                p.text-center Visibilidad, incidencia política, acompañamiento nacional
+                p.text-center Visibilidad, incidencia política, acompañamiento nacional.
     
           .col-lg-3.order-lg-1
             figure

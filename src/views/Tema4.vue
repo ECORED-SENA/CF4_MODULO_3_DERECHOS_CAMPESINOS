@@ -64,14 +64,23 @@
       .col-lg-8.order-lg-1
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-3")
           div(titulo="Compras públicas")
-            p Requieren registro como proveedor- Exigen calidad, empaque, legalidad y puntualidad- Ofrecen mejores precios que el mercado común- Pueden presentar demoras en el pago
-            p.mb-0 <b>Ejemplo</b>: Asofruver (Boyacá) entrega productos al PAE con acuerdos firmados.
+            .ps-1
+              span - Requieren registro como proveedor.<br>
+              span - Exigen calidad, empaque, legalidad y puntualidad.<br>
+              span - Ofrecen mejores precios que el mercado común.<br>
+              span - Pueden presentar demoras en el pago.<br><br>
+            p.mb-0 <b>Ejemplo</b>: asofruver (Boyacá) entrega productos al PAE con acuerdos firmados.
           div(titulo="Cadenas de supermercados o tiendas")
-            p Buscan productos diferenciados (agroecológicos, sin químicos)- Exigen empaque adecuado, presentación y código de barras- Pagan bien si se garantiza calidad constante
-            p.mb-0 <b>Recomendación</b>: Trabajar en grupo para asegurar volúmenes estables.
+            .ps-1
+              span - Buscan productos diferenciados (agroecológicos, sin químicos).<br>
+              span - Exigen empaque adecuado, presentación y código de barras.<br>
+              span - Pagan bien si se garantiza calidad constante.<br><br>
+            p.mb-0 <b>Recomendación</b>: trabajar en grupo para asegurar volúmenes estables.
           div(titulo="Ferias y ruedas de negocios")
-            p Permiten dar a conocer productos a compradores institucionales o urbanos- Son organizadas por SENA, cámaras de comercio, gobernaciones o cooperación internacional
-            p.mb-0 <b>Consejo</b>: Llevar fichas del producto, precios claros y materiales explicativos.
+            .ps-1
+              span - Permiten dar a conocer productos a compradores institucionales o urbanos<br>
+              span - Son organizadas por SENA, cámaras de comercio, gobernaciones o cooperación internacional<br><br>
+            p.mb-0 <b>Consejo</b>: llevar fichas del producto, precios claros y materiales explicativos.
          
     separador
 
@@ -90,13 +99,13 @@
           ul.lista-ul--color
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
-              p.mb-0 Tener productos con permisos sanitarios (registro Invima, ICA)
+              p.mb-0 Tener productos con permisos sanitarios (registro Invima, ICA).
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
-              p.mb-0 Manejar volúmenes adecuados, normalmente con varios productores organizados
+              p.mb-0 Manejar volúmenes adecuados, normalmente con varios productores organizados.
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
-              p.mb-0 Contar con empaque adecuado y transporte confiable
+              p.mb-0 Contar con empaque adecuado y transporte confiable.
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
               p.mb-0 Establecer vínculos con empresas exportadoras o participar en programas como Agricultura por Contrato o iniciativas de comercio justo
@@ -123,11 +132,11 @@
           img(src="@/assets/curso/tema4/7.png", data-aos="zoom-in")
       .col-lg-8
         LineaTiempoD.color-secundario
-          p(numero="1" titulo="Registro en Cámara de Comercio") Permite facturar y participar en contratos formales
-          p(numero="2" titulo="Cuenta bancaria") Para recibir pagos de forma segura y legal
-          p(numero="3" titulo="Certificación sanitaria (ICA, Invima)") Autoriza la venta de productos agropecuarios y transformados, dentro y fuera del país
-          p(numero="4" titulo="Empaque y etiquetado adecuados") Garantizan la calidad en el transporte y generan confianza en el consumidor final
-          p(numero="5" titulo="Capacidad de respuesta") Asegura que el productor o la asociación pueda cumplir con cantidades, fechas y condiciones de calidad
+          p(numero="1" titulo="Registro en Cámara de Comercio") Permite facturar y participar en contratos formales.
+          p(numero="2" titulo="Cuenta bancaria") Para recibir pagos de forma segura y legal.
+          p(numero="3" titulo="Certificación sanitaria (ICA, Invima)") Autoriza la venta de productos agropecuarios y transformados, dentro y fuera del país.
+          p(numero="4" titulo="Empaque y etiquetado adecuados") Garantizan la calidad en el transporte y generan confianza en el consumidor final.
+          p(numero="5" titulo="Capacidad de respuesta") Asegura que el productor o la asociación pueda cumplir con cantidades, fechas y condiciones de calidad.
 
 
     separador
@@ -149,13 +158,13 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Permite cumplir con grandes pedidos
+                  p.mb-0 Permite cumplir con grandes pedidos.
+                li.mb-0.d-flex
+                  i.fas.fa-leaf.bg-color-5  
+                  p.mb-0 Divide tareas (producción, empaque, distribución).
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Divide tareas (producción, empaque, distribución)
-                li.mb-0.d-flex
-                  i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Reduce costos logísticos y operativos
+                  p.mb-0 Reduce costos logísticos y operativos.
           .row.align-items-center.p-4.p-md-5.justify-content-center
             .col-lg-5.order-2
               figure
@@ -165,13 +174,13 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Un producto bien presentado genera mayor valor
+                  p.mb-0 Un producto bien presentado genera mayor valor.
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 No se requiere empaque costoso, sino funcional y representativo
+                  p.mb-0 No se requiere empaque costoso, sino funcional y representativo.
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Contar la historia del producto también es un valor agregado
+                  p.mb-0 Contar la historia del producto también es un valor agregado.
           .row.align-items-center.p-4.p-md-5.justify-content-center
             .col-lg-5.order-2
               figure
@@ -182,16 +191,16 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Capacitaciones en comercialización
+                  p.mb-0 Capacitaciones en comercialización.
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Ruedas de negocios
+                  p.mb-0 Ruedas de negocios.
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Apoyo para registros sanitarios
+                  p.mb-0 Apoyo para registros sanitarios.
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Contacto con compradores formales
+                  p.mb-0 Contacto con compradores formales.
     
     .row.mb-5
       .col-lg-4.order-lg-2.mb-3.mb-lg-0
