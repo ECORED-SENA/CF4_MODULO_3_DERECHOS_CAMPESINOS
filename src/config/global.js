@@ -305,9 +305,10 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Pendiente definir Autor en Word',
-          cargo: 'Experto temático',
-          centro: 'Pendiente',
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Experta temática',
+          centro:
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
         },
         {
           nombre: 'Paola Alexandra Moya',
