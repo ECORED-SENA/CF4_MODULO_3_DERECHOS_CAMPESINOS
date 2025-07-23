@@ -194,7 +194,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CF04_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -308,13 +308,13 @@ export default {
           nombre: 'Ana Catalina Córdoba Sus',
           cargo: 'Experta temática',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Paola Alexandra Moya',
           cargo: 'Evaluadora instruccional',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -325,13 +325,31 @@ export default {
           nombre: 'Blanca Flor Tinoco Torres',
           cargo: 'Diseñador de contenidos digitales',
           centro:
-            'Regional Antioquia - Centro de Formación Centro de Servicios de Salud.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Leyson Fabian Castaño Perez',
           cargo: 'Desarrollador fullstack',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Jose Eduardo Solano Rivero',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Andrés Felipe Guevara Ariza',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -342,25 +360,25 @@ export default {
           nombre: 'Aixa Natalia Sendoya Fernández',
           cargo: 'Validador de recursos educativos digitales',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador de recursos educativos digitales',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Raúl Mosquera Serrano',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
