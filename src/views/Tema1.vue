@@ -219,7 +219,7 @@
               p.mb-0 Ceder ante amenazas como: “si no me vende a ese precio, le compro a otro”.
             li.d-flex.bg-color-7.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
-              p.mb-0 Firmar papeles que no entiendes.
+              p.mb-0 Firmar papeles que no entienda.
           p.mb-0 Ante la duda, es mejor no vender. Más vale perder una venta que perder toda la producción o quedar endeudado.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")

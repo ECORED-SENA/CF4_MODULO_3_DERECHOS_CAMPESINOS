@@ -30,7 +30,7 @@
                 .col-lg-3.mb-3.mb-lg-0(data-aos="fade-down")
                   div.bg-color-10.tarjeta.p-4.h-100.align-content-center
                     p.mb-0.text-bold La relación entre productores y compradores
-              p.mb-0 Estas formas de autorregulación no solo son legítimas, sino que tienen respaldo jurídico. El Artículo 64 de la Constitución Política de Colombia establece que el Estado debe:
+              p.mb-0 Estas formas de autorregulación no solo son legítimas, sino que tienen respaldo jurídico. El artículo 64 de la Constitución Política de Colombia establece que el Estado debe:
     
     .row
       .col-lg-4.order-lg-2.mb-3.mb-lg-0
@@ -49,16 +49,16 @@
               ul.lista-ul--color.mb-0
                 li.d-flex.bg-color-7.tarjeta.p-2
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Cómo funciona el entorno comercial.
+                  p.mb-0 Como funciona el entorno comercial.
                 li.d-flex.bg-color-7.tarjeta.p-2
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Qué oportunidades existen.
+                  p.mb-0 Que oportunidades existen.
                 li.d-flex.bg-color-7.tarjeta.p-2
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Qué normas se deben cumplir.
+                  p.mb-0 Que normas se deben cumplir.
                 li.d-flex.bg-color-7.tarjeta.p-2
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Cómo proteger su producción frente a abusos o prácticas injustas, especialmente de intermediarios.
+                  p.mb-0 Como proteger su producción frente a abusos o prácticas injustas, especialmente de intermediarios.
     
     .bg-full-width-2.bg-fondo-3
       .p-4.p-md-5
@@ -84,7 +84,7 @@
                   .bg-color-white.p-4.h-100.shadow-app
                     img(src='@/assets/curso/tema2/6.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                     h4.text-center.mb-4 Acceso a los espacios de venta
-                    p.text-center Quién puede vender en la plaza o feria.
+                    p.text-center Quien puede vender en la plaza o feria.
                   .bg-color-white.p-4.h-100.shadow-app
                     img(src='@/assets/curso/tema2/7.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                     h4.text-center.mb-4 Organización del espacio comercial
@@ -137,7 +137,7 @@
                 figure
                   img(src="@/assets/curso/tema2/14.svg", data-aos="zoom-in")
               .col-lg-7
-                p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente Pódcast:
+                p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente pódcast:
         
                 TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
                   texto="Tipos de políticas comerciales que impactan al productor rural"

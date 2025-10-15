@@ -69,7 +69,7 @@
               span - Exigen calidad, empaque, legalidad y puntualidad.<br>
               span - Ofrecen mejores precios que el mercado común.<br>
               span - Pueden presentar demoras en el pago.<br><br>
-            p.mb-0 <b>Ejemplo</b>: asofruver (Boyacá) entrega productos al PAE con acuerdos firmados.
+            p.mb-0 <b>Ejemplo</b>: ASOFRUVER (Boyacá) entrega productos al PAE con acuerdos firmados.
           div(titulo="Cadenas de supermercados o tiendas")
             .ps-1
               span - Buscan productos diferenciados (agroecológicos, sin químicos).<br>
@@ -78,8 +78,8 @@
             p.mb-0 <b>Recomendación</b>: trabajar en grupo para asegurar volúmenes estables.
           div(titulo="Ferias y ruedas de negocios")
             .ps-1
-              span - Permiten dar a conocer productos a compradores institucionales o urbanos<br>
-              span - Son organizadas por SENA, cámaras de comercio, gobernaciones o cooperación internacional<br><br>
+              span - Permiten dar a conocer productos a compradores institucionales o urbanos.<br>
+              span - Son organizadas por SENA, cámaras de comercio, gobernaciones o cooperación internacional.<br><br>
             p.mb-0 <b>Consejo</b>: llevar fichas del producto, precios claros y materiales explicativos.
          
     separador
@@ -99,7 +99,7 @@
           ul.lista-ul--color
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
-              p.mb-0 Tener productos con permisos sanitarios (registro Invima, ICA).
+              p.mb-0 Tener productos con permisos sanitarios (registro INVIMA, ICA).
             li.d-flex.bg-color-15.tarjeta.p-2
               i.fas.fa-leaf.bg-color-5
               p.mb-0 Manejar volúmenes adecuados, normalmente con varios productores organizados.
@@ -134,7 +134,7 @@
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Registro en Cámara de Comercio") Permite facturar y participar en contratos formales.
           p(numero="2" titulo="Cuenta bancaria") Para recibir pagos de forma segura y legal.
-          p(numero="3" titulo="Certificación sanitaria (ICA, Invima)") Autoriza la venta de productos agropecuarios y transformados, dentro y fuera del país.
+          p(numero="3" titulo="Certificación sanitaria (ICA, INVIMA)") Autoriza la venta de productos agropecuarios y transformados, dentro y fuera del país.
           p(numero="4" titulo="Empaque y etiquetado adecuados") Garantizan la calidad en el transporte y generan confianza en el consumidor final.
           p(numero="5" titulo="Capacidad de respuesta") Asegura que el productor o la asociación pueda cumplir con cantidades, fechas y condiciones de calidad.
 

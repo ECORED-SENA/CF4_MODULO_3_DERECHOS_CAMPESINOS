@@ -328,7 +328,7 @@ export default {
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Leyson Fabian Castaño Perez',
+          nombre: 'Leyson Fabián Castaño Perez',
           cargo: 'Desarrollador fullstack',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',

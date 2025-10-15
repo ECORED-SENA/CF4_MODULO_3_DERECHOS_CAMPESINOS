@@ -23,7 +23,7 @@ export default {
         '<b> Objetivo:</b> Identificar los conceptos clave sobre la negociación campesina, políticas comerciales, acuerdos, acceso a mercados y fortalecimiento organizativo para una comercialización justa y sostenible.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
@@ -171,7 +171,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Semi-formal.',
+              texto: 'Semiformal.',
               esCorrecta: false,
             },
             {

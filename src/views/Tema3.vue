@@ -77,7 +77,7 @@
                   img(src='@/assets/curso/tema3/6.svg', alt='')
               .col-lg
                 .p-4
-                  p.mb-0(data-aos="fade-up") <b>Para acceder a programas del Estado</b> : iniciativas como Agricultura por Contrato del Ministerio de Agricultura o el Programa de Alimentación Escolar (PAE) requieren acuerdos por escrito como requisito para participar.
+                  p.mb-0(data-aos="fade-up") <b>Para acceder a programas del Estado</b>: iniciativas como Agricultura por Contrato del Ministerio de Agricultura o el Programa de Alimentación Escolar (PAE) requieren acuerdos por escrito como requisito para participar.
 
     separador
 
@@ -99,10 +99,10 @@
           .col-lg-6
             figure
               img(src='@/assets/curso/tema3/7.png', alt='Texto que describa la imagen')
-      .py-4.py-md-5(titulo="Semi-formales" :icono="require('@/assets/componentes/3.svg')")
+      .py-4.py-md-5(titulo="Semiformales" :icono="require('@/assets/componentes/3.svg')")
         .row.p-4.align-items-center
           .col-lg-6.mb-4.mb-md-0
-            h4 Semi-formales
+            h4 Semiformales
             .ps-1
               span - Anotados y firmados por ambas partes.<br>
               span - No requieren abogado.<br>
@@ -131,7 +131,7 @@
             figure
               img(src='@/assets/curso/tema3/9.png', alt='Texto que describa la imagen')
     
-    p Estos tipos de acuerdo permiten al campesinado adaptarse a diferentes contextos de venta sin perder control sobre sus productos ni sobre las condiciones en las que comercia.
+    p Estos tipos de acuerdos permiten al campesinado adaptarse a diferentes contextos de venta sin perder control sobre sus productos ni sobre las condiciones en las que comercia.
 
     separador
 
@@ -149,11 +149,11 @@
                 img(src="@/assets/curso/tema3/10.png")
             .col-lg-6.order-1.mb-3.mb-lg-0
               h5 A.  Conversar y acordar los términos
-              p Antes de escribir, dialoga con el comprador y definan:
+              p Antes de escribir, dialogue con el comprador y definan:
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
-                  p.mb-0 Qué producto se necesita.
+                  p.mb-0 Que producto se necesita.
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-5
                   p.mb-0 Cantidad.

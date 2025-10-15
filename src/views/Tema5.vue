@@ -60,7 +60,7 @@
       .col-lg-7.order-lg-1
         .bg-color-4.p-4.tarjeta(data-aos="fade-left")
           h5.mb-5 Ejemplo
-          p.mb-0 Una asociación de mujeres en Bolívar se organizó para procesar productos del campo (harinas, encurtidos, dulces), capacitarse, registrar sus productos ante el Invima y vender a escuelas. Hoy tienen clientes fijos, fondo común y proyectos propios.
+          p.mb-0 Una asociación de mujeres en Bolívar se organizó para procesar productos del campo (harinas, encurtidos, dulces), capacitarse, registrar sus productos ante el INVIMA y vender a escuelas. Hoy tienen clientes fijos, fondo común y proyectos propios.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -140,7 +140,7 @@
                 figure
                   img(src="@/assets/curso/tema5/8.svg", data-aos="zoom-in")
               .col-lg-7
-                p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente Pódcast:
+                p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente pódcast:
         
                 TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
                   texto="Elementos clave para fortalecer una organización campesina"
