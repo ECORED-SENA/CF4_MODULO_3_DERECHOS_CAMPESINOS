@@ -194,7 +194,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF04_DU.pdf',
+        download: 'downloads/212500_CF04_DU.pdf',
       },
       {
         icono: 'fas fa-download',
