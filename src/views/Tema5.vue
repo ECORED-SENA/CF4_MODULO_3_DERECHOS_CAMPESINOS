@@ -87,7 +87,7 @@
           .tarjeta.color-acento-botones--borde.p-4(titulo="Redes o nodos")
             h4 Redes o nodos
             p Unión de asociaciones o colectivos; facilitan incidencia a nivel nacional.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Colectivos informales")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Colectivos<br>informales")
             h4 Colectivos informales
             p Grupos de hecho; útiles para apoyo mutuo e intercambio comunitario.
     
